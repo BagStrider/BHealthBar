@@ -1,5 +1,5 @@
 # BHealthBar 
-[Download Package](https://github.com/BagStrider/BHealthBar/releases/tag/v1.0.0)
+[Download Package](https://github.com/BagStrider/BHealthBar/releases/tag/Install)
 
 ## **Variuos Prefabs:**
 <img alt="1" src="https://github.com/user-attachments/assets/e2ccd3ad-a06c-45f1-87a2-2e13560c1ef0" />
